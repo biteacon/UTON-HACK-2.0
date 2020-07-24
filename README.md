@@ -7,10 +7,14 @@
 ![likelib](./resources/Architectures-Indexed-LikeLib.png)
 ## Telegram-bot schema
 ![bot](./resources/Architectures-Telegram-bot-DB.png)
+## Installation and Configuration
+`Почти все компоненты нашего решения используют Docker. Следуя инструкциям в каждом отдельном репозитории, вы можете 
+быстро и легко развернуть рабочий стенд.`
+
+`P.s. Перед запуском настоятельно рекомендуется поменять пароли!`
 ## Repositories
 #### Актуальные
-* [biteacon/UTON-HACK-2.0](https://github.com/biteacon/UTON-HACK-2.0) - репозиторий корневой документации по проекту Biteacon, специально
-для UTON HACK 2.0
+* [biteacon/UTON-HACK-2.0](https://github.com/biteacon/UTON-HACK-2.0) - репозиторий корневой документации по проекту Biteacon
 * [biteacon/telegram-bot](https://github.com/biteacon/telegram-bot) - исходный код телеграм бота(эксплорер LikeLib), написанного на java
 * [biteacon/postgres-hasura](https://github.com/biteacon/postgres-hasura) - исходный код конфигурации базы данных Postgres и 
 Hasura GraphQL сервера, содержит миграции
