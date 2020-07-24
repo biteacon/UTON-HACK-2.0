@@ -67,6 +67,10 @@
 ![likelib](./resources/Architectures-Indexed-LikeLib.png)
 <br></br><br></br>
 ### Telegram-bot schema
+Телеграм бот нуждается в отдельной схеме базы данных по двум причинам:
+1) Добавление команд в избранное
+2) Регистрация(инвайты) в Biteacon(Superset BI) через механизмы бота.
+
 ![bot](./resources/Architectures-Telegram-bot-DB.png)
 <br></br><br></br>
 ## Installation and Configuration
