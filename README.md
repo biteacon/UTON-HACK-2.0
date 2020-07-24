@@ -15,8 +15,12 @@
 версии нашего проекта.
 
 ## Content
-* [Repositories](#Repositories)
+* [Content](#Content)
+* [Biteacon.xyz](#Biteacon.xyz)
+* [Biteacon bot](#Biteacon-bot)
+* [Architecture](#Architecture)
 * [Installation and Configuration](#Installation-and-Configuration)
+* [Repositories](#Repositories)
 
 ## Biteacon.xyz
 
