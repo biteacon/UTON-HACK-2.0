@@ -27,7 +27,6 @@
 ## Biteacon bot
 
 ## Architecture
-<br></br>
 ### Solution architecture
 
 Этапы работы программного решения:
