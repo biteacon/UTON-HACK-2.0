@@ -16,7 +16,7 @@
 
 ## Content
 * [Content](#Content)
-* [Biteacon.xyz](#Biteacon-BI)
+* [Biteacon BI](#Biteacon-BI)
 * [Biteacon bot](#Biteacon-bot)
 * [Architecture](#Architecture)
 * [Installation and Configuration](#Installation-and-Configuration)
