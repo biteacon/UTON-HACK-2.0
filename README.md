@@ -16,13 +16,13 @@
 
 ## Content
 * [Content](#Content)
-* [Biteacon.xyz](#Biteacon.xyz)
+* [Biteacon.xyz](#Biteacon-BI)
 * [Biteacon bot](#Biteacon-bot)
 * [Architecture](#Architecture)
 * [Installation and Configuration](#Installation-and-Configuration)
 * [Repositories](#Repositories)
 
-## Biteacon.xyz
+## Biteacon BI
 
 ## Biteacon bot
 
