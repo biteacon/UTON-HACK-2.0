@@ -14,7 +14,9 @@
 * [biteacon GitHub](https://github.com/biteacon) - наша организация на GitHub, там вы всегда сможете найти самые актуальные
 версии нашего проекта.
 
+## Content
 * [Repositories](#Repositories)
+* [Installation and Configuration](#Installation-and-Configuration)
 
 ## Biteacon.xyz
 
